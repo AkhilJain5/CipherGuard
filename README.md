@@ -12,10 +12,10 @@ pip install -r requirements.txt
 ## Run
 Windows :
 ```
-python filencrypt.py [-h] [-e] [-d] [-i] [-c]
+python CipherGuard.py [-h] [-e] [-d] [-i] [-c]
 ```
 
 Linux :
 ```
-python3 filencrypt.py [-h] [-e] [-d] [-i] [-c]
+python3 CipherGuard.py [-h] [-e] [-d] [-i] [-c]
 ```
