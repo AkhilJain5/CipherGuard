@@ -4,7 +4,7 @@ File Encryption - Decryption Tool is a cryptography project that encrypts and de
 # Use
 ## Installation
 ```bash
-git clone https://github.com/deo7/CipherGuard.git
+git clone https://github.com/AkhilJain5/CipherGuard.git
 cd CipherGuard
 pip install -r requirements.txt
 ```
